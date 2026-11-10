@@ -21,18 +21,13 @@ The **New Zealand Port & Maritime Trade Control Tower** provides stakeholders an
 ## 📊 Dashboard Preview
 
 ### 1. Main Dashboard Overview
-<br>
-<p align="center">
-  <img src="screenshots/Mai
-n Dashboard.png" alt="Main Dashboard Overview" width="100%">
-</p>
+![Main Dashboard Overview](/screenshots/main%20dashboard.png)
 
 ### 2. Operational Tooltips & Health Status Alerts
-<br>
-<p align="center">
-  <img src="screenshots/Tooltip 1.png" alt="Tooltip View 1" width="48%">
-  <img src="screenshots/Tooltip 2.png" alt="Tooltip View 2" width="48%">
-</p>
+![Operational Tooltips & Health Status Alerts](/screenshots/Tooltip%201.png)
+
+
+![Operational Tooltips & Health Status Alerts](/screenshots/Tooltip%202.png)
 
 
 
